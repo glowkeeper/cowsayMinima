@@ -1,3 +1,3 @@
-# Cowsay Random Minimi
+# Cowsay Random Minima
 
-Random Cowsay generator on on Minima
+Cowsay random generator for [Minima](http://mifi.minima.global/).
